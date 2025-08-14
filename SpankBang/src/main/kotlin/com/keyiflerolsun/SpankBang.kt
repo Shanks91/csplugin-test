@@ -9,7 +9,7 @@ import com.lagradost.cloudstream3.utils.*
 import com.lagradost.cloudstream3.LoadResponse.Companion.addActors
 
 class SpankBang : MainAPI() {
-    override var mainUrl              = "https://spankbang.com"
+    override var mainUrl              = "https://spankbang.party"
     override var name                 = "SpankBang"
     override val hasMainPage          = true
     override var lang                 = "en"
